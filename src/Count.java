@@ -1,6 +1,9 @@
 public class Count {
 
-    public String count(int age) {
-        return "My age is " + age;
+    public void count(int age, String status) {
+        age = 26;
+        status = "Status: you are getting old";
+
+        System.out.println("My age is " + age + ". " + status);
     }
 }
