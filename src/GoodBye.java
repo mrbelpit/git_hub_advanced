@@ -1,7 +1,7 @@
 public class GoodBye {
 
-    public String goodBye(String name) {
-        return "Bye-bye " + name + "!!";
+    public void goodBye(String name) {
+        System.out.println("Bye-bye " + name + "!");
     }
 
 }
