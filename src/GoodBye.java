@@ -1,7 +1,6 @@
 public class GoodBye {
 
     public void goodBye(String name) {
-        System.out.println("Bye-bye " + name + "!");
+        System.out.println("Greeting my Fair Lady / Dear Sir "+ name + "!");
     }
-
 }
