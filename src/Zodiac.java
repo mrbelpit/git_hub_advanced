@@ -1,7 +1,7 @@
 public class Zodiac {
 
-  public void printMyZodiac(){
-    System.out.println("gemini");
+  public void future(Boolean vmi) {
+    System.out.println("Are you gemini? " + " " + vmi);
   }
 
 }
